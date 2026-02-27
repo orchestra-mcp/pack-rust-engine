@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-rust-engine",
+    "description": "Rust engine skills and agents for Tonic, Tree-sitter, and Tantivy",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["rust"],
+    "contents": {
+        "skills": ["rust-engine"],
+        "agents": ["rust-engineer", "qa-rust"],
+        "hooks": []
+    },
+    "tags": ["rust", "engine", "grpc", "tree-sitter", "tantivy"]
+}
